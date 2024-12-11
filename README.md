@@ -1,7 +1,7 @@
 # 📒 Documentação do Projeto
 
 <p align="justify">
-Projeto de monitoramento de vazão de água usando o sensor YF-S201 e Arduino. Os dados são exibidos em tempo real no display LCD-I2C, visando otimizar a troca do filtro de água. Inspirado pela ideia do meu supervisor Denison Tenorio.
+Projeto de monitoramento de vazão de água usando o sensor YF-S201 e Arduino. Os dados são exibidos em tempo real no display LCD-I2C, visando otimizar a troca de filtro de água. Inspirado pela ideia do meu supervisor Denison Tenorio.
 </p>
 
 <div style="display: inline_block"><br>
